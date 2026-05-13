@@ -1,0 +1,13 @@
+.header {
+     border-bottom: 1px solid #ECECEC;
+     }
+.header__content { 
+    display: flex;
+     align-items: center; 
+     height: 80px;
+     }
+     .header__contacts {
+    display: flex;
+    margin-left: auto;
+    gap: 30px;
+}
